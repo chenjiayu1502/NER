@@ -1,0 +1,388 @@
+{
+    "STORECARD": [
+        {
+            "I-STORECARD": [
+                {
+                    "I-SCREENRESOLUTION": 6,
+                    "B-SIM": 14,
+                    "I-SCREENSIZE": 6,
+                    "I-FRONTCAMERA": 2,
+                    "B-RAM": 4,
+                    "I-RAM": 105,
+                    "I-INTERFACE": 51,
+                    "I-SENSORSPECIFIC": 8,
+                    "O": 104
+                },
+                300
+            ],
+            "B-STORECARD": [
+                {
+                    "B-SCREENRESOLUTION": 1,
+                    "B-RAM": 3,
+                    "I-ROM": 2,
+                    "I-RAM": 1,
+                    "B-SENSORSPECIFIC": 1,
+                    "B-INTERFACE": 11,
+                    "O": 25
+                },
+                44
+            ]
+        },
+        344
+    ],
+    "BODYMATERIAL": [
+        {
+            "B-BODYMATERIAL": [
+                {
+                    "O": 3
+                },
+                3
+            ],
+            "I-BODYMATERIAL": [
+                {
+                    "B-BODYMATERIAL": 2,
+                    "O": 1
+                },
+                3
+            ]
+        },
+        6
+    ],
+    "SENSORTYPE": [
+        {
+            "I-SENSORTYPE": [
+                {
+                    "I-INTERFACE": 2,
+                    "I-SCREENSIZE": 1,
+                    "B-CORENUM": 2,
+                    "I-SCREENRESOLUTION": 10,
+                    "I-DATE": 17,
+                    "I-TYPE": 4,
+                    "B-SIM": 2,
+                    "I-FRONTCAMERA": 1,
+                    "B-RAM": 1,
+                    "B-SCREENRESOLUTION": 8,
+                    "I-XINGHAO": 55,
+                    "I-ROM": 9,
+                    "I-RAM": 3,
+                    "I-SENSORSPECIFIC": 1,
+                    "O": 103
+                },
+                219
+            ],
+            "B-SENSORTYPE": [
+                {
+                    "B-SCREENRESOLUTION": 1,
+                    "B-XINGHAO": 2,
+                    "B-RAM": 1,
+                    "B-TYPE": 1,
+                    "I-SCREENRESOLUTION": 2,
+                    "O": 22
+                },
+                29
+            ]
+        },
+        248
+    ],
+    "RAM": [
+        {
+            "I-RAM": [
+                {
+                    "I-ROM": 2
+                },
+                2
+            ],
+            "B-RAM": [
+                {
+                    "B-ROM": 3,
+                    "I-ROM": 1
+                },
+                4
+            ]
+        },
+        6
+    ],
+    "BACKCAMERA": [
+        {
+            "I-BACKCAMERA": [
+                {
+                    "B-BACKCAMERA": 1,
+                    "I-FRONTCAMERA": 7,
+                    "O": 2
+                },
+                10
+            ],
+            "B-BACKCAMERA": [
+                {
+                    "B-FRONTCAMERA": 1,
+                    "O": 1
+                },
+                2
+            ]
+        },
+        12
+    ],
+    "BATTERYCAPACITY": [
+        {
+            "B-BATTERYCAPACITY": [
+                {
+                    "O": 1
+                },
+                1
+            ],
+            "I-BATTERYCAPACITY": [
+                {
+                    "O": 6
+                },
+                6
+            ]
+        },
+        7
+    ],
+    "WEIGHT": [
+        {
+            "I-WEIGHT": [
+                {
+                    "O": 6
+                },
+                6
+            ],
+            "B-WEIGHT": [
+                {
+                    "O": 2
+                },
+                2
+            ]
+        },
+        8
+    ],
+    "CORENUM": [
+        {
+            "B-CORENUM": [
+                {
+                    "B-FRONTCAMERA": 1,
+                    "B-SCREENSIZE": 9,
+                    "B-RAM": 23,
+                    "I-RAM": 1,
+                    "I-ROM": 3,
+                    "B-INTERFACE": 13,
+                    "O": 108
+                },
+                158
+            ],
+            "I-CORENUM": [
+                {
+                    "I-INTERFACE": 2,
+                    "I-SCREENRESOLUTION": 1,
+                    "I-SCREENSIZE": 19,
+                    "I-DATE": 9,
+                    "I-RAM": 17,
+                    "B-RAM": 2,
+                    "I-ROM": 12,
+                    "O": 102
+                },
+                164
+            ]
+        },
+        322
+    ],
+    "SIM": [
+        {
+            "I-SIM": [
+                {
+                    "I-RAM": 23,
+                    "I-SCREENSIZE": 2,
+                    "I-SENSORSPECIFIC": 12,
+                    "O": 19
+                },
+                56
+            ]
+        },
+        56
+    ],
+    "EXTEND": [
+        {
+            "I-EXTEND": [
+                {
+                    "I-RAM": 1,
+                    "I-ROM": 14,
+                    "O": 3
+                },
+                18
+            ],
+            "B-EXTEND": [
+                {
+                    "B-ROM": 4,
+                    "O": 1
+                },
+                5
+            ]
+        },
+        23
+    ],
+    "SCREENRESOLUTION": [
+        {
+            "I-SCREENRESOLUTION": [
+                {
+                    "O": 1
+                },
+                1
+            ],
+            "B-SCREENRESOLUTION": [
+                {
+                    "I-SCREENRESOLUTION": 1
+                },
+                1
+            ]
+        },
+        2
+    ],
+    "DATE": [
+        {
+            "I-DATE": [
+                {
+                    "O": 4
+                },
+                4
+            ],
+            "B-DATE": [
+                {
+                    "O": 1
+                },
+                1
+            ]
+        },
+        5
+    ],
+    "SENSORSPECIFIC": [
+        {
+            "B-SENSORSPECIFIC": [
+                {
+                    "O": 3
+                },
+                3
+            ],
+            "I-SENSORSPECIFIC": [
+                {
+                    "O": 6
+                },
+                6
+            ]
+        },
+        9
+    ],
+    "BORDER": [
+        {
+            "B-BORDER": [
+                {
+                    "B-RAM": 2,
+                    "B-INTERFACE": 1,
+                    "B-SCREENSIZE": 1,
+                    "O": 42
+                },
+                46
+            ],
+            "I-BORDER": [
+                {
+                    "I-FRONTCAMERA": 1,
+                    "I-BATTERYCAPACITY": 1,
+                    "I-INTERFACE": 3,
+                    "I-RAM": 14,
+                    "I-SCREENSIZE": 1,
+                    "O": 90
+                },
+                110
+            ]
+        },
+        156
+    ],
+    "ROM": [
+        {
+            "B-ROM": [
+                {
+                    "B-RAM": 3
+                },
+                3
+            ],
+            "I-ROM": [
+                {
+                    "I-RAM": 13
+                },
+                13
+            ]
+        },
+        16
+    ],
+    "XINGHAO": [
+        {
+            "I-XINGHAO": [
+                {
+                    "O": 33
+                },
+                33
+            ],
+            "B-XINGHAO": [
+                {
+                    "O": 5
+                },
+                5
+            ]
+        },
+        38
+    ],
+    "SCREENSIZE": [
+        {
+            "B-SCREENSIZE": [
+                {
+                    "O": 1
+                },
+                1
+            ],
+            "I-SCREENSIZE": [
+                {
+                    "B-SCREENSIZE": 1,
+                    "O": 1
+                },
+                2
+            ]
+        },
+        3
+    ],
+    "FRONTCAMERA": [
+        {
+            "B-FRONTCAMERA": [
+                {
+                    "B-BACKCAMERA": 11
+                },
+                11
+            ],
+            "I-FRONTCAMERA": [
+                {
+                    "I-BACKCAMERA": 54,
+                    "B-FRONTCAMERA": 1,
+                    "O": 1
+                },
+                56
+            ]
+        },
+        67
+    ],
+    "INTERFACE": [
+        {
+            "B-INTERFACE": [
+                {
+                    "O": 1
+                },
+                1
+            ],
+            "I-INTERFACE": [
+                {
+                    "B-INTERFACE": 1,
+                    "O": 5
+                },
+                6
+            ]
+        },
+        7
+    ]
+}
